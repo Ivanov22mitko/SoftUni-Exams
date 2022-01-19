@@ -1,0 +1,13 @@
+C:\Users\mita6\Desktop\SoftUni_Advanced\Advanced\EXAM\Official\03. Ski Rental_Skeleton\SkiRental\bin\Debug\netcoreapp3.1\SkiRental.exe
+C:\Users\mita6\Desktop\SoftUni_Advanced\Advanced\EXAM\Official\03. Ski Rental_Skeleton\SkiRental\bin\Debug\netcoreapp3.1\SkiRental.deps.json
+C:\Users\mita6\Desktop\SoftUni_Advanced\Advanced\EXAM\Official\03. Ski Rental_Skeleton\SkiRental\bin\Debug\netcoreapp3.1\SkiRental.runtimeconfig.json
+C:\Users\mita6\Desktop\SoftUni_Advanced\Advanced\EXAM\Official\03. Ski Rental_Skeleton\SkiRental\bin\Debug\netcoreapp3.1\SkiRental.runtimeconfig.dev.json
+C:\Users\mita6\Desktop\SoftUni_Advanced\Advanced\EXAM\Official\03. Ski Rental_Skeleton\SkiRental\bin\Debug\netcoreapp3.1\SkiRental.dll
+C:\Users\mita6\Desktop\SoftUni_Advanced\Advanced\EXAM\Official\03. Ski Rental_Skeleton\SkiRental\bin\Debug\netcoreapp3.1\SkiRental.pdb
+C:\Users\mita6\Desktop\SoftUni_Advanced\Advanced\EXAM\Official\03. Ski Rental_Skeleton\SkiRental\obj\Debug\netcoreapp3.1\SkiRental.csprojAssemblyReference.cache
+C:\Users\mita6\Desktop\SoftUni_Advanced\Advanced\EXAM\Official\03. Ski Rental_Skeleton\SkiRental\obj\Debug\netcoreapp3.1\SkiRental.AssemblyInfoInputs.cache
+C:\Users\mita6\Desktop\SoftUni_Advanced\Advanced\EXAM\Official\03. Ski Rental_Skeleton\SkiRental\obj\Debug\netcoreapp3.1\SkiRental.AssemblyInfo.cs
+C:\Users\mita6\Desktop\SoftUni_Advanced\Advanced\EXAM\Official\03. Ski Rental_Skeleton\SkiRental\obj\Debug\netcoreapp3.1\SkiRental.csproj.CoreCompileInputs.cache
+C:\Users\mita6\Desktop\SoftUni_Advanced\Advanced\EXAM\Official\03. Ski Rental_Skeleton\SkiRental\obj\Debug\netcoreapp3.1\SkiRental.dll
+C:\Users\mita6\Desktop\SoftUni_Advanced\Advanced\EXAM\Official\03. Ski Rental_Skeleton\SkiRental\obj\Debug\netcoreapp3.1\SkiRental.pdb
+C:\Users\mita6\Desktop\SoftUni_Advanced\Advanced\EXAM\Official\03. Ski Rental_Skeleton\SkiRental\obj\Debug\netcoreapp3.1\SkiRental.genruntimeconfig.cache

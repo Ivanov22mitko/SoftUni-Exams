@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "6iAL0A/lCbQW6kug2BfNUmv4x5vcb3Zei3IX79D3Bhl4N+Uq/H0ZnAoHK7K/p981urPfhiVu98vXdzeVvDQfbA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\mita6\\Desktop\\SoftUni_Advanced\\OOP\\EXAM\\Official\\03. Unit Tests_Skeleton\\Robots\\Robots.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\mita6\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.0.3\\microsoft.netcore.app.host.win-x64.3.0.3.nupkg.sha512",
+    "C:\\Users\\mita6\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.0.1\\microsoft.aspnetcore.app.ref.3.0.1.nupkg.sha512",
+    "C:\\Users\\mita6\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\3.0.0\\microsoft.windowsdesktop.app.ref.3.0.0.nupkg.sha512",
+    "C:\\Users\\mita6\\.nuget\\packages\\microsoft.netcore.app.ref\\3.0.0\\microsoft.netcore.app.ref.3.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
